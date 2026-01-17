@@ -1,4 +1,6 @@
-# Duplicate Question Detection
+# sentence-similarity-error-analysis
+
+## Duplicate Question Detection
 
 This repository is about detecting whether two questions are **duplicates** or **not**, meaning they convey the same intent even if the wording is different.
 
