@@ -1,4 +1,4 @@
-# sentence-similarity-error-analysis
+# Sentence Similarity Analysis
 
 ## Duplicate Question Detection
 
